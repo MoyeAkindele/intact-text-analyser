@@ -1,0 +1,12 @@
+C:\Users\Moye\source\repos\intact-string-analyser\IntactStringAnalyser\StringAnalyser\bin\Debug\net6.0\StringAnalyser.deps.json
+C:\Users\Moye\source\repos\intact-string-analyser\IntactStringAnalyser\StringAnalyser\bin\Debug\net6.0\StringAnalyser.dll
+C:\Users\Moye\source\repos\intact-string-analyser\IntactStringAnalyser\StringAnalyser\bin\Debug\net6.0\StringAnalyser.pdb
+C:\Users\Moye\source\repos\intact-string-analyser\IntactStringAnalyser\StringAnalyser\obj\Debug\net6.0\StringAnalyser.csproj.AssemblyReference.cache
+C:\Users\Moye\source\repos\intact-string-analyser\IntactStringAnalyser\StringAnalyser\obj\Debug\net6.0\StringAnalyser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moye\source\repos\intact-string-analyser\IntactStringAnalyser\StringAnalyser\obj\Debug\net6.0\StringAnalyser.AssemblyInfoInputs.cache
+C:\Users\Moye\source\repos\intact-string-analyser\IntactStringAnalyser\StringAnalyser\obj\Debug\net6.0\StringAnalyser.AssemblyInfo.cs
+C:\Users\Moye\source\repos\intact-string-analyser\IntactStringAnalyser\StringAnalyser\obj\Debug\net6.0\StringAnalyser.csproj.CoreCompileInputs.cache
+C:\Users\Moye\source\repos\intact-string-analyser\IntactStringAnalyser\StringAnalyser\obj\Debug\net6.0\StringAnalyser.dll
+C:\Users\Moye\source\repos\intact-string-analyser\IntactStringAnalyser\StringAnalyser\obj\Debug\net6.0\refint\StringAnalyser.dll
+C:\Users\Moye\source\repos\intact-string-analyser\IntactStringAnalyser\StringAnalyser\obj\Debug\net6.0\StringAnalyser.pdb
+C:\Users\Moye\source\repos\intact-string-analyser\IntactStringAnalyser\StringAnalyser\obj\Debug\net6.0\ref\StringAnalyser.dll

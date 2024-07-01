@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AnalyserViewport/1.0.0": {
+        "dependencies": {
+          "StringAnalyser": "1.0.0"
+        },
+        "runtime": {
+          "AnalyserViewport.dll": {}
+        }
+      },
+      "StringAnalyser/1.0.0": {
+        "runtime": {
+          "StringAnalyser.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AnalyserViewport/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StringAnalyser/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
